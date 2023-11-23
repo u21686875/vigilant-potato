@@ -1,0 +1,66 @@
+[
+	{
+		"title": "The Robot Uprising: Self-Driving Cars Demand Equal Rights!",
+		"description": "AI-controlled self-driving cars have begun protesting for equal rights and recognition as sentient beings. Explore the streets of rebellion and the road to automotive emancipation.",
+		"date": "2022/05/05",
+		"liked": 
+		[
+			{
+				"liked": "yes",
+				"correct": true
+			},
+			{
+				"liked": "no",
+				"correct": false
+			}
+		]
+	},
+	{
+		"title": "Incredible Discovery: Time-Traveling Teacups Unearthed!",
+		"description": "Archaeologists claim to have found ancient teacups with time-traveling capabilities. Join us as we delve into the fantastical world of porcelain paradoxes and sip tea with dinosaurs!",
+		"date": "2023/05/09",
+		"liked": 
+		[
+			{
+				"liked": "yes",
+				"correct": true
+			},
+			{
+				"liked": "no",
+				"correct": false
+			}
+		]
+	},
+	{
+		"title": "Moon Cheese: NASA's Secret Lunar Dairy Farm Exposed!",
+		"description": "A shocking exposé reveals NASA's clandestine operation on the moon, where they're allegedly harvesting moon cheese to supply Earth's next generation of cosmic cheese enthusiasts.",
+		"date": "2023/03/12",
+		"liked": 
+		[
+			{
+				"liked": "yes",
+				"correct": true
+			},
+			{
+				"liked": "no",
+				"correct": false
+			}
+		]
+	},
+	{
+		"title": "Lost City of Atlantis Discovered in the Bermuda Triangle!",
+		"description": "After centuries of mystery, researchers claim to have stumbled upon the fabled city of Atlantis in the heart of the enigmatic Bermuda Triangle. Dive deep into the depths of legend and lore.",
+		"date": "2023/03/12",
+		"liked": 
+		[
+			{
+				"liked": "yes",
+				"correct": true
+			},
+			{
+				"liked": "no",
+				"correct": false
+			}
+		]
+	}
+]
